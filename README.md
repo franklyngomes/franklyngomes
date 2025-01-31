@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="left">Hi there, I'm Franklyn 👋🏻 </h1>
 <h3 align="left"> I am a Frontend Developer. I love coding, gaming and riding 🏍️. </h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
