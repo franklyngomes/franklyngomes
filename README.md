@@ -3,7 +3,7 @@
 <h3 align="left"> Glad to see you here! :smile: </h3>
 <h5 align="left">📍 Currently base at: India</h5>
 
-<h2 align='left''> Languages and Tools 💻 </h2>
+<h2 align='left''> Tools i work with 💻 </h2>
 <p align='left'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'>
