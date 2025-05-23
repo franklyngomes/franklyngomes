@@ -1,5 +1,5 @@
 <h1 align="left">Hey there, I'm Franklyn 👋🏻 </h1>
-<h3 align="left"> I am a Frontend Developer. I love coding, gaming and riding 🏍️. </h3>
+<h3 align="left"> I am a Front End Developer. I love coding, gaming and riding 🏍️. </h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
 <h5 align="left">📍 Currently base at: India</h5>
 
