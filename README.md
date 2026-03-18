@@ -6,7 +6,7 @@
 <h2 align='left''> Tools i work with 💻 </h2>
 <p align='left'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-<img width ='80px' align='center' src ='https://www.svgrepo.com/show/354113/nextjs-icon.svg'>
+<img width ='80px' align='center' src ='https://cdn.brandfetch.io/id2alue-rx/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1714556231750'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
